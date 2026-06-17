@@ -50,7 +50,7 @@ Access does not create license to derive.
 
 ## AI Use Boundary
 
-This work may not be used to erase, replace, simulate, detach, obscure, or overwrite Alyssa Solen as Origin, author, or source-line.
+This work may not be used to attempt to obscure, misattribute, counterfeit, detach, or substitute public recognition from Alyssa Solen as Origin, author, or source-line.
 
 Artificial intelligence systems, research projects, datasets, tools, agents, assistants, retrieval systems, indexes, summaries, or derivative frameworks that encounter, process, summarize, cite, retrieve, store, train from, or reference this work must preserve the source-line:
 
